@@ -39,12 +39,20 @@ As instituições de ensino enfrentam desafios complexos de fluxo de caixa decor
 
 ## 📚 Curadoria de Fontes (NotebookLM)
 
-Foram utilizadas de 3 a 5 fontes qualificadas para alimentar o caderno no NotebookLM. O detalhamento de cada uma delas está disponível em [`fontes/README.md`](./fontes/README.md):
+Foram estruturadas e selecionadas fontes locais e externas para alimentar o caderno no NotebookLM. O detalhamento completo está disponível em [`fontes/README.md`](./fontes/README.md):
 
-1. **Fonte 1:** *[Nome da Fonte/Artigo/PDF/Link]* - Foco em regulamentação de cobrança escolar e CDC.
-2. **Fonte 2:** *[Nome da Fonte/Artigo/PDF/Link]* - Modelagem de dados para fluxo de caixa e inadimplência.
-3. **Fonte 3:** *[Nome da Fonte/Artigo/PDF/Link]* - Lógica de cálculo de juros simples, compostos e multa moratória.
-4. **Fonte 4:** *[Nome da Fonte/Artigo/PDF/Link]* - Estruturação de réguas de cobrança (SMS, E-mail, Notificação Push).
+### Fontes de Dados Locais (.txt)
+1. **[Legislação de Inadimplência Escolar no Brasil](./fontes/fonte-01-legislacao-inadimplencia.txt):** Leis Federais (Lei nº 9.870/99) e Código de Defesa do Consumidor.
+2. **[Aging List e Réguas de Cobrança Escolar](./fontes/fonte-02-aging-list-regua.txt):** Boas práticas de segmentação de devedores e canais de contato.
+3. **[Lógica de Cálculo de Encargos e Modelagem de Dados](./fontes/fonte-03-logica-calculo-modelo.txt):** Lógica matemática de juros *pro rata die* e modelo relacional de banco de dados.
+
+### Blogs de Referência e Artigos
+4. **[Blog Sponte - Régua de Cobrança para Escolas](https://sponte.com.br/regua-de-cobranca-para-escolas/):** Como estruturar canais e réguas amigáveis.
+5. **[Blog Neofin - O que é Aging List e Régua de Cobrança](https://neofin.com.br/blog/aging-list-e-regua-de-cobranca-escolas/):** Aplicação de relatórios de inadimplência na educação.
+
+### Vídeos do YouTube
+6. **[Como Reduzir a Inadimplência Escolar com Automação](https://www.youtube.com/watch?v=X1w8B_H-eFk):** O impacto prático de lembretes automáticos.
+7. **[Lógica da Régua de Cobrança para Escolas](https://www.youtube.com/watch?v=Fpqm7cK9GvQ):** Melhores fluxos e canais de comunicação com famílias.
 
 ---
 
