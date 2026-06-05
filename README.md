@@ -77,6 +77,7 @@ O resultado prático deste estudo está dividido em duas partes fundamentais par
    - Lógica de cálculo de taxas de atraso.
    - Fluxograma de réguas de cobrança com alertas.
    - Aplicação de regras fiscais/legais sobre juros e multas de mensalidades escolares.
+   - **Implementações Técnicas:** Query SQL para consultas em tempo real e função JavaScript para lógica de backend/APIs.
    
 2. **Glossário Técnico ([`miniguia/glossario.md`](./miniguia/glossario.md)):**
    - Termos financeiros: *Multa moratória*, *Juros pro rata*, *Inadimplência ativa*, *Aging List*.
