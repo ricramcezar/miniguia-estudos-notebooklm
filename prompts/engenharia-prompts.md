@@ -10,7 +10,7 @@ Registro do processo de refinamento de prompts e os desafios encontrados (*troub
 * **Problema Encontrado:** A IA deu uma resposta muito genérica sem considerar a legislação escolar brasileira (limite de multa moratória) ou a lógica de banco de dados (SQL).
 * **Prompt Refinado:**
   > *"Aja como um engenheiro de dados especialista em lógica de negócios para ERPs escolares. Como modelar o cálculo de atraso de uma mensalidade considerando: data de vencimento, data de pagamento, multa moratória de 2% (limite do CDC) e juros de 1% ao mês pro rata die? Forneça a lógica em pseudocódigo ou SQL."*
-* **Resultado:** [Descreva aqui brevemente o retorno da IA e se foi útil]
+* **Resultado:** A IA gerou uma estrutura condicional clara (`IF/ELSE`) separando a multa fixa de 2% dos juros diários fracionados (0,033% por dia de atraso). Esse refinamento de contexto (definindo o papel profissional e as regras exatas) forçou o modelo a respeitar o limite do Código de Defesa do Consumidor brasileiro e evitou que sugerisse taxas abusivas.
 
 ---
 
