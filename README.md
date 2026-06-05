@@ -6,6 +6,15 @@ O projeto vai além de uma simples entrega de curso: ele foi estruturado sob a �
 
 ---
 
+## 📊 Guia Estratégico Visual
+
+Para facilitar a interpretação executiva das regras e estratégias de controle, elaboramos o infográfico explicativo abaixo, disponível na pasta `miniguia`:
+
+![Guia Estratégico: Reduzindo a Inadimplência Escolar](./miniguia/Guia_para_Reduzir_Inadimplência_Escolar.png)
+
+
+---
+
 ## 📂 Estrutura do Projeto
 
 A organização de pastas foi estruturada para garantir a separação de responsabilidades e facilitar a curadoria do material utilizado no NotebookLM:
@@ -21,7 +30,10 @@ desafio-notebooklm/
 └── miniguia/                  # Entrega final consolidada do estudo
     ├── resumos.md             # Resumos estruturados sobre inadimplência e cálculo
     ├── glossario.md           # Conceitos de gestão financeira e dados escolares
-    └── guia-estudo-notebooklm.md # Guia de estudos e FAQ gerado pelo NotebookLM
+    ├── guia-estudo-notebooklm.md # Guia de estudos e FAQ gerado pelo NotebookLM
+    ├── Blindagem_Financeira_Escolar.pdf # Apresentação em PDF para diretoria escolar
+    └── Guia_para_Reduzir_Inadimplência_Escolar.png # Infográfico visual estratégico
+
 ```
 
 ---
@@ -89,3 +101,9 @@ O resultado prático deste estudo está dividido em duas partes fundamentais par
 
 4. **Guia de Estudos NotebookLM ([`miniguia/guia-estudo-notebooklm.md`](./miniguia/guia-estudo-notebooklm.md)):**
    - Roteiro de revisão, glossário expandido e questionário de fixação (FAQ) com gabarito gerado diretamente pela inteligência artificial.
+
+5. **Apresentação Executiva CFO ([`miniguia/Blindagem_Financeira_Escolar.pdf`](./miniguia/Blindagem_Financeira_Escolar.pdf)):**
+   - Documento em formato PDF gerado pelo NotebookLM com a finalidade de servir como apresentação estratégica de um diretor financeiro para a diretoria/responsáveis da escola.
+
+6. **Infográfico Estratégico ([`miniguia/Guia_para_Reduzir_Inadimplência_Escolar.png`](./miniguia/Guia_para_Reduzir_Inadimplência_Escolar.png)):**
+   - Mapa visual com o resumo estruturado das regras de monitoramento financeiro (*Aging List*) e réguas de cobrança alinhadas ao CDC.
