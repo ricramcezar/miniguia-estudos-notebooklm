@@ -1,0 +1,65 @@
+LOGICA DE CÁLCULO E MODELAGEM DE DADOS PARA ENCARGOS DE ATRASO
+
+1. ENCARGOS MORATÓRIOS: MULTA E JUROS DIÁRIOS
+Quando um boleto ou mensalidade vence e não é pago, o sistema de faturamento deve aplicar dois tipos de penalidades:
+a) Multa Moratória: Uma penalidade única por atraso. Ela não se acumula com o tempo.
+   Fórmula da Multa:
+   Multa = Valor_Mensalidade * (Percentual_Multa / 100)
+   Exemplo: R$ 1.000,00 * (2 / 100) = R$ 20,00
+
+b) Juros de Mora (Pro Rata Die): Juros acumulados diariamente proporcionais aos dias de atraso.
+   Fórmula da Taxa Diária:
+   Taxa_Diaria = Taxa_Mensal_Juros / 30
+   Exemplo para taxa de 1% ao mês:
+   Taxa_Diaria = 1% / 30 = 0,033333% ao dia (ou 0,00033333 em decimal)
+
+   Fórmula dos Juros Totais:
+   Dias_Atraso = Data_Pagamento - Data_Vencimento
+   Juros_Totais = Valor_Mensalidade * Taxa_Diaria * Dias_Atraso
+   Exemplo para 10 dias de atraso:
+   Juros_Totais = R$ 1.000,00 * 0,00033333 * 10 = R$ 3,33
+
+c) Valor Total a Pagar:
+   Valor_Total = Valor_Mensalidade + Multa + Juros_Totais
+   Exemplo: R$ 1.000,00 + R$ 20,00 + R$ 3,33 = R$ 1.023,33
+
+2. MODELAGEM DE BANCO DE DADOS (ENTIDADES E RELACIONAMENTOS)
+Para suportar o controle e o cálculo da inadimplência e réguas de cobrança, a modelagem de dados relacional deve contemplar a seguinte estrutura:
+
+a) Tabela: ALUNOS
+   - aluno_id (Chave Primária)
+   - nome
+   - cpf_responsavel
+   - email_responsavel
+   - telefone_responsavel
+
+b) Tabela: MENSALIDADES (ou PARCELAS)
+   - parcela_id (Chave Primária)
+   - aluno_id (Chave Estrangeira apontando para ALUNOS)
+   - valor_original (Decimal)
+   - data_vencimento (Date)
+   - status (ENUM: 'Paga', 'Em Aberto', 'Cancelada')
+
+c) Tabela: PAGAMENTOS
+   - pagamento_id (Chave Primária)
+   - parcela_id (Chave Estrangeira apontando para MENSALIDADES)
+   - data_pagamento (Date)
+   - valor_pago (Decimal)
+   - valor_multa_aplicado (Decimal)
+   - valor_juros_aplicado (Decimal)
+
+3. LÓGICA DE PROGRAMAÇÃO (PSEUDOCÓDIGO PARA COBRANÇA)
+Função para processamento e atualização do valor da parcela:
+
+Funcao CalcularValorAtualizado(valor_original, data_vencimento, data_atual)
+    Se data_atual <= data_vencimento Entao
+        Retornar valor_original
+    Senao
+        dias_atraso = data_atual - data_vencimento
+        multa = valor_original * 0.02 // 2% de multa fixa
+        taxa_diaria = 0.01 / 30 // 1% ao mês dividido por 30
+        juros = valor_original * taxa_diaria * dias_atraso
+        valor_total = valor_original + multa + juros
+        Retornar valor_total
+    FimSe
+FimFuncao

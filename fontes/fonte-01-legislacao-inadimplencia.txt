@@ -1,0 +1,22 @@
+LEGISLAÇÃO E REGRAS LEGAIS SOBRE INADIMPLÊNCIA ESCOLAR NO BRASIL
+
+1. A MULTA MORATÓRIA E O CÓDIGO DE DEFESA DO CONSUMIDOR (CDC)
+De acordo com o artigo 52, § 1º, do Código de Defesa do Consumidor (CDC) brasileiro, as multas de mora decorrentes do inadimplemento de obrigações no seu termo não poderão ser superiores a 2% (dois por cento) do valor da prestação. 
+- Aplicação prática: Qualquer cláusula contratual em contrato de prestação de serviços educacionais que estabeleça multa superior a 2% pelo atraso no pagamento da mensalidade é considerada abusiva, nula de pleno direito e ilegal.
+
+2. JUROS DE MORA (JUROS MORATÓRIOS)
+Diferente da multa moratória (que é uma penalidade fixa aplicada uma única vez no momento do atraso), os juros de mora compensam o tempo em que o dinheiro ficou retido pelo devedor.
+- Limite Legal: O limite padrão praticado e aceito na jurisprudência para relações de consumo é de até 1% (um por cento) ao mês.
+- Cálculo Pro Rata Die: Para cobranças justas e precisas, os juros devem ser calculados proporcionalmente aos dias de atraso (pro rata die). A taxa diária é obtida dividindo a taxa mensal por 30 (ex: 1% / 30 = 0,0333% ao dia).
+
+3. A LEI Nº 9.870 DE 1999 E AS SANÇÕES PEDAGÓGICAS PROIBIDAS
+A Lei Federal nº 9.870/1999 dispõe sobre o valor total das anuidades escolares e estabelece regras rígidas de proteção ao estudante.
+- Proibição Absoluta (Artigo 6º): São proibidas a suspensão de provas escolares, a retenção de documentos escolares (como histórico acadêmico ou transferência) ou a aplicação de quaisquer outras penalidades pedagógicas por motivo de inadimplemento.
+- Garantia de Conclusão: O aluno inadimplente tem o direito garantido por lei de concluir o período letivo em curso (ano ou semestre) sem qualquer discriminação, suspensão de aulas ou impedimento de realizar avaliações.
+
+4. DIREITOS E LIMITES DE COBRANÇA DA INSTITUIÇÃO DE ENSINO
+Apesar de não poder aplicar sanções pedagógicas, a escola possui direitos legítimos para recuperar o crédito:
+- Cobrança Amigável e Extrajudicial: Envio de notificações, cartas e mensagens de cobrança diretamente ao responsável financeiro (nunca expondo o aluno ao constrangimento perante colegas).
+- Negativação do Responsável: É permitida a inclusão do nome do responsável financeiro (e não do aluno menor de idade) nos órgãos de proteção ao crédito (SPC/Serasa), desde que haja notificação prévia.
+- Ação Judicial de Cobrança: A escola pode ajuizar ação de execução ou cobrança para reaver os valores devidos.
+- Recusa de Rematrícula (Artigo 5º): A instituição pode recusar a renovação da matrícula para o período letivo seguinte se o responsável financeiro estiver inadimplente, desde que o período letivo atual já tenha sido concluído.

@@ -1,0 +1,26 @@
+MODELAGEM FINANCEIRA ESCOLAR: AGING LIST E RÉGUA DE COBRANÇA
+
+1. INTRODUÇÃO À AGING LIST (LISTA DE ENVELHECIMENTO DE DÍVIDAS)
+A Aging List é um relatório financeiro fundamental que categoriza os saldos de contas a receber com base no tempo decorrido desde a data de vencimento da fatura. Para uma escola, isso significa segmentar os contratos de mensalidades em atraso para definir a gravidade e o risco de inadimplência crônica.
+
+Segmentação Padrão de Aging List Educacional:
+- A Vencer (0 dias de atraso): Mensalidades cujo vencimento ocorrerá nos próximos dias. Risco: Zero. Ações preventivas recomendadas.
+- Atraso Curto (1 a 15 dias de atraso): Geralmente decorre de esquecimento ou desalinhamento pontual de fluxo de caixa familiar. Risco: Baixo.
+- Atraso Médio (16 a 45 dias de atraso): Risco moderado. Exige contato direto e início da incidência de juros e multas reais no boleto de reemissão.
+- Inadimplência Ativa (46 a 90 dias de atraso): Risco alto. Exige tentativas ativas de acordos e ofertas de parcelamento. O aluno terminará o período letivo em breve, e após esse período a escola perde o poder de barganha da matrícula.
+- Inadimplência Crônica (Acima de 90 dias de atraso): Risco de perda de crédito. Encaminhamento para cobrança jurídica, negativação de órgãos de crédito e negação de matrícula para o próximo ciclo letivo.
+
+2. A ESTRUTURAÇÃO DA RÉGUA DE COBRANÇA AUTOMATIZADA
+A régua de cobrança é o plano tático de comunicação com o cliente estruturado ao longo do tempo (Dias de Atraso - N). Uma régua automatizada evita o desgaste da equipe escolar e diminui as taxas de atraso preventivamente.
+
+Fluxo Sugerido de Régua de Cobrança:
+- Gatilho D-5 (5 dias antes do vencimento): Notificação preventiva via e-mail e SMS enviando o código PIX/Cód. Barras com tom amistoso ("Lembrete de vencimento").
+- Gatilho D-0 (Dia do vencimento): Envio de mensagem direta via WhatsApp reforçando o vencimento no dia.
+- Gatilho D+2 (2 dias após o vencimento): Alerta amigável de vencimento não identificado. Instruções para reemissão com a incidência das primeiras taxas (multa de 2% e juros pro rata).
+- Gatilho D+10 (10 dias após o vencimento): Ligação ou contato humanizado pela equipe de atendimento para entender o cenário e oferecer canais facilitados de pagamento.
+- Gatilho D+30 (30 dias após o vencimento): Notificação formal de atraso, alertando sobre a impossibilidade de renovação de matrícula futura e possibilidade de registro em cartório ou órgãos de proteção ao crédito (SPC/Serasa).
+
+3. MÉTRICAS E INDICADORES DE INADIMPLÊNCIA ESCOLAR
+Para acompanhar a saúde financeira, os seguintes KPIs baseados em modelagem de dados devem ser calculados:
+- Taxa de Inadimplência Mensal: (Total de valores vencidos e não pagos no mês) / (Total faturado no mês).
+- Perda Estimada sobre Inadimplência: Análise estatística baseada na Aging List de quantos por cento dos alunos na faixa >90 dias historicamente não pagam a dívida, para provisionar perdas (PDD - Provisão para Devedores Duvidosos).
