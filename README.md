@@ -47,12 +47,14 @@ Foram estruturadas e selecionadas fontes locais e externas para alimentar o cade
 3. **[Lógica de Cálculo de Encargos e Modelagem de Dados](./fontes/fonte-03-logica-calculo-modelo.txt):** Lógica matemática de juros *pro rata die* e modelo relacional de banco de dados.
 
 ### Blogs de Referência e Artigos
-4. **[Blog Sponte - Régua de Cobrança para Escolas](https://sponte.com.br/regua-de-cobranca-para-escolas/):** Como estruturar canais e réguas amigáveis.
-5. **[Blog Neofin - O que é Aging List e Régua de Cobrança](https://neofin.com.br/blog/aging-list-e-regua-de-cobranca-escolas/):** Aplicação de relatórios de inadimplência na educação.
+4. **[Blog Sponte - Régua de cobrança para combater a inadimplência escolar](https://www.sponte.com.br/blog/regua-de-cobranca):** Planejamento e ações de réguas de cobrança na prática.
+5. **[Blog Neofin - Aging list: entenda o que é, principais benefícios e como fazer](https://www.neofin.com.br/blog/aging-list):** Análise e interpretação de relatórios de envelhecimento de contas.
 
 ### Vídeos do YouTube
-6. **[Como Reduzir a Inadimplência Escolar com Automação](https://www.youtube.com/watch?v=X1w8B_H-eFk):** O impacto prático de lembretes automáticos.
-7. **[Lógica da Régua de Cobrança para Escolas](https://www.youtube.com/watch?v=Fpqm7cK9GvQ):** Melhores fluxos e canais de comunicação com famílias.
+6. **[Como reduzir a inadimplência escolar, sem perder alunos](https://youtu.be/K4Oww2Cg4cE?si=3MMnJFI1sKxH7VsP):** Cobrança humanizada e relacionamento.
+7. **[Inadimplência Escolar - Como realizar a cobrança](https://www.youtube.com/live/EY1CZM8pRtA?si=3lguObvpfHVUkLP6):** Live sobre fluxos práticos e perfis de atrasos.
+8. **[Régua de cobrança e controle de inadimplência escolar](https://youtu.be/8Zq2_ySnirQ?si=d-2zUgI8dhdxKNXf):** Aplicação prática e automação de cobranças recorrentes.
+9. **[6 dicas para acabar com a inadimplência escolar](https://youtu.be/QwaEA7kMEMQ?si=K3fsuLuuCt2OhbM_):** Ações diretas e rotina financeira escolar.
 
 ---
 

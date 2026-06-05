@@ -27,19 +27,21 @@ Este diretório contém as fontes de dados utilizadas para alimentar e treinar o
 Você pode inserir esses links diretamente como fontes de URL e YouTube no NotebookLM:
 
 ### Blogs de Gestão e Tecnologia Educacional
-4. **[Blog Sponte - Régua de Cobrança para Escolas](https://sponte.com.br/regua-de-cobranca-para-escolas/)**
-   - **Descrição:** Artigo detalhado focado em como construir réguas de cobrança amigáveis para instituições de ensino e o impacto da automação no fluxo de caixa.
-   - **Uso no NotebookLM:** Ótimo para entender o tom de voz e boas práticas de comunicação escolar.
-5. **[Blog Neofin - O que é Aging List e Régua de Cobrança](https://neofin.com.br/blog/aging-list-e-regua-de-cobranca-escolas/)**
-   - **Descrição:** Blog detalhando a utilização conjunta do relatório Aging List e a aplicação das réguas de cobrança específicas para devedores em escolas.
-   - **Uso no NotebookLM:** Ajuda a ligar os conceitos de métricas financeiras de controle com as réguas.
+4. **[Blog Sponte - Régua de cobrança para combater a inadimplência escolar](https://www.sponte.com.br/blog/regua-de-cobranca)**
+   - **Descrição:** Artigo focado em como planejar e colocar em prática a régua de cobrança no ambiente escolar para gerenciar mensalidades atrasadas.
+   - **Uso no NotebookLM:** Serve como base conceitual para o tom de voz e canais de contato da régua de cobrança.
+5. **[Blog Neofin - Aging list: entenda o que é, principais benefícios e como fazer](https://www.neofin.com.br/blog/aging-list)**
+   - **Descrição:** Artigo detalhando o funcionamento do relatório financeiro de envelhecimento de contas a receber (Aging List) e sua importância prática no caixa.
+   - **Uso no NotebookLM:** Fornece a base conceitual de controle, segmentação de dias de atraso e análise de riscos.
 
 ### Vídeos do YouTube (NotebookLM transcreve automaticamente)
-6. **[YouTube - Como Reduzir a Inadimplência Escolar com Automação](https://www.youtube.com/watch?v=X1w8B_H-eFk)** *(Link representativo/pesquisa)*
-   - **Descrição:** Videoaula demonstrando o impacto prático de automatizar notificações de boletos via WhatsApp e SMS.
-   - **Uso no NotebookLM:** Serve como insumo para a IA entender o dia a dia operacional das secretarias escolares.
-7. **[YouTube - Lógica da Régua de Cobrança para Escolas](https://www.youtube.com/watch?v=Fpqm7cK9GvQ)** *(Link representativo/pesquisa)*
-   - **Descrição:** Discussão de canais especialistas sobre a estruturação de fluxos de contatos no setor educacional.
-   - **Uso no NotebookLM:** Útil para a construção do miniguia na parte de diagramas e fluxo de alertas.
+6. **[YouTube - Como reduzir a inadimplência escolar, sem perder alunos](https://youtu.be/K4Oww2Cg4cE?si=3MMnJFI1sKxH7VsP)**
+   - **Descrição:** Vídeo explicando abordagens práticas e humanizadas para lidar com mensalidades escolares atrasadas sem perder a matrícula.
+7. **[YouTube - Inadimplência Escolar - Como realizar a cobrança](https://www.youtube.com/live/EY1CZM8pRtA?si=3lguObvpfHVUkLP6)**
+   - **Descrição:** Transmissão ao vivo sobre processos estruturados de cobrança, comportamento dos inadimplentes e definição de réguas.
+8. **[YouTube - Régua de cobrança e controle de inadimplência escolar](https://youtu.be/8Zq2_ySnirQ?si=d-2zUgI8dhdxKNXf)**
+   - **Descrição:** Vídeo prático sobre estruturação de cobranças recorrentes e combate à inadimplência.
+9. **[YouTube - 6 dicas para acabar com a inadimplência escolar](https://youtu.be/QwaEA7kMEMQ?si=K3fsuLuuCt2OhbM_)**
+   - **Descrição:** Vídeo com dicas práticas e diretas para secretarias e setores financeiros escolares gerenciarem recebíveis.
 
 
