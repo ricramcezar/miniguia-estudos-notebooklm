@@ -19,8 +19,9 @@ desafio-notebooklm/
 │   ├── engenharia-prompts.md  # Testes de prompts, "cicatrizes" e troubleshooting
 │   └── reutilizaveis.md       # Prompts prontos para futuras consultas/revisões
 └── miniguia/                  # Entrega final consolidada do estudo
-    ├── resumos.md             # Resumos estruturados sobre inadimplência e lógica de cálculo
-    └── glossario.md           # Conceitos de gestão financeira e dados escolares
+    ├── resumos.md             # Resumos estruturados sobre inadimplência e cálculo
+    ├── glossario.md           # Conceitos de gestão financeira e dados escolares
+    └── guia-estudo-notebooklm.md # Guia de estudos e FAQ gerado pelo NotebookLM
 ```
 
 ---
@@ -85,3 +86,6 @@ O resultado prático deste estudo está dividido em duas partes fundamentais par
 
 3. **Prompts Reutilizáveis ([`prompts/reutilizaveis.md`](./prompts/reutilizaveis.md)):**
    - Prompts otimizados para testar novos cenários e realizar revisões periódicas do tema.
+
+4. **Guia de Estudos NotebookLM ([`miniguia/guia-estudo-notebooklm.md`](./miniguia/guia-estudo-notebooklm.md)):**
+   - Roteiro de revisão, glossário expandido e questionário de fixação (FAQ) com gabarito gerado diretamente pela inteligência artificial.
